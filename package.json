@@ -1,6 +1,6 @@
 {
-  "homepage": "https://robosatch.github.io/SortingVisualizer/",
-  "name": "sorting-visualizer",
+  "homepage": "https://robosatch.github.io/sorting/",
+  "name": "sorting",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
