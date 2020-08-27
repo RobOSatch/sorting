@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-In high school I did some research on sorting algorithms and built some of them in Java. 7 years later I decided to revisit this topic with my improved skills and in a more visual manner. I think it's really fascinating how every algorithm has its own pattern, almost like a personality. [Check out my webapp and try it out for yourself](robosatch.github.io/sorting).
+In high school I did some research on sorting algorithms and built some of them in Java. 7 years later I decided to revisit this topic with my improved skills and in a more visual manner. I think it's really fascinating how every algorithm has its own pattern, almost like a personality. [Check out my webapp and try it out for yourself](https://robosatch.github.io/sorting).
 
 ## MergeSort
 ### O(nlogn)
